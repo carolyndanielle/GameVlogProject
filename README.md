@@ -1,1 +1,1 @@
-# GameVlogProject
+# Indie Canvas by Wondrous Gamers
