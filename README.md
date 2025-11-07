@@ -1,1 +1,3 @@
 # Indie Canvas by Wondrous Gamers
+Indie Canvas is a pastel-themed educational web hub and vlog site created to help aspiring indie game developers and creative students learn about game creation, digital art, and content production. The site will function as a game development vlog and resource center, providing access to tutorials, articles, devlog vidoes, tool recommendations, and FAQ. All presented in a soft anime pastel aesthetic to make learning more inviting and visually appealing. 
+It will feature interactive elements, responsive design, and JavaScript-enchanced components to engage users while following modern web standards.
